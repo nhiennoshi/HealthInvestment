@@ -5,7 +5,7 @@ This dashboard analyzes over **14,400 nursing homes across the United States (20
 1. Provide a **data-driven presentation** into nursing home investment opportunities.  
 2. Deliver an **interactive Tableau tool** to help investors explore the data themselves.  
 3. Share insights on **financial health, geographic distribution, and investment risks/opportunities**.
-4. 
+   
 The goal is to support **investment decisions** in the nursing home industry, which is positioned for growth due to America’s rapidly aging population.  
 
 The final deliverable is an **interactive Tableau dashboard** that allows stakeholders to understand data in 3 levels:
